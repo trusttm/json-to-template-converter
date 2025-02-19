@@ -4,23 +4,25 @@ This is a Visual Studio Code Extension to convert a JSON into the request/respon
 
 # How to Install this Extension in VSCode
 
-Open Visual Studio Code.
+* Clone / download the extension (*.vsix file) provided in this repository
 
-Press Ctrl+Shift+P to open the Command Palette.
+* Open Visual Studio Code.
 
-Type Extensions: Install from VSIX... and select it.
+* Press Ctrl+Shift+P to open the Command Palette.
 
-Navigate to the .vsix file shared here 
+* Type Extensions: Install from VSIX... and select it.
 
-VSCode will install the extension, and you'll be able to use it immediately.
+* Navigate to the .vsix file shared here 
+
+* VSCode will install the extension, and you'll be able to use it immediately.
 
 # How to verify the Installation/ How to use the extension
 
-Once installed, select a piece of request JSON in any file.
+* Once installed, select a piece of request JSON in any file.
 
-Press Ctrl+Shift+P, type "Convert JSON to Template", and run the command.
+* Press Ctrl+Shift+P, type "Convert JSON to Template", and run the command.
 
-If everything is set up correctly, your JSON should be converted to the request Template format.
+* If everything is set up correctly, your JSON should be converted to the request Template format.
 
 $>mvm
 
